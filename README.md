@@ -1,7 +1,7 @@
 # M2PNet: Multi-Scale-and-Multi-Direction-Perception-Network-for-Tubular-Structure-Segmentation
 ## Abstract
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-这是一个示例项目的摘要部分。摘要通常简要介绍项目的背景、目的、方法和主要结果。
+Accurate segmentation of tubular structure images, such as roads and blood vessels, is critical for downstream tasks in many fields. Existing methods mainly focus on exploiting the topological structure of individual tubular shapes, often ignoring valuable prior knowledge embedded within the image context. In particular, the diverse size range of these tubular structures and their intricate branching configurations exhibit the typical multi-scale and multi-directional features. Drawing inspiration from these, we propose a contextual information-aware multi-scale and multi-direction perception network (M$^2$PNet) for tubular structure segmentation, which aims to augment the depth perception of tubular structure image features through improved image feature extraction, fusion, refinement, and enhancement. First, a large kernel snake convolution is designed to dynamically prioritize tubular structures while ensuring an expansive receptive field to capture contextual information. Then, we propose a multi-directional feature fusion strategy that leverages multi-scale hybrid attention mechanisms to enhance the integration of features from diverse directions. Finally, a multi-scale feature refinement unit and a branching feature enhancement module are proposed to amplify the depth of feature comprehension and utilization. Experimental results on four representative datasets show that the proposed M$^2$PNet outperforms several state-of-the-art methods in tubular structure segmentation tasks.
 </div>
 
 ## Usage
