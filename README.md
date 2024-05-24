@@ -6,7 +6,5 @@ git clone https://github.com/xwf12345678/M2PNet.git
 Training for Drive dataset: <br>
 ```bash
 cd Drive
-```
-```bash
 python Main.py
 ```
