@@ -4,10 +4,10 @@
 ```bash
 git clone https://github.com/xwf12345678/M2PNet.git
 ```
-### Training for Drive dataset
+### Training for DRIVE dataset
 ```bash
 cd Drive
 python Main.py
 ```
-### Training for Drive dataset
+### Training for other datasets
 Coming Soon
