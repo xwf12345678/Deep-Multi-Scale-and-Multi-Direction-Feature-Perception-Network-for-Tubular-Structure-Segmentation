@@ -6,7 +6,7 @@ Accurate segmentation of tubular structure images, such as roads and blood vesse
 ## Quantitative Result
 ![Quantitative Result](Quantitative_results.png)
 ## Quanlitative Result
-![Quanlitative Result](Quanlitative_Results.png)
+![Quanlitative Result](Qulilative_Results.png)
 ## Usage
 ### Install
 ```bash
